@@ -2,7 +2,7 @@
 
 Free 1080×1080 photo and news card maker for Bangladeshi creators — Bengali fonts, templates, live preview, PNG export.
 
-**Live:** [mdtanvir.com](https://mdtanvir.com) · **Source:** [github.com/tanvir2sky/card-craft-studio](https://github.com/tanvir2sky/card-craft-studio)
+**Live:** [card-craft.mdtanvir.com](https://card-craft.mdtanvir.com) · **Portfolio:** [mdtanvir.com](https://mdtanvir.com) · **Source:** [github.com/tanvir2sky/card-craft-studio](https://github.com/tanvir2sky/card-craft-studio)
 
 ![CardCraft Studio](./preview.png)
 
